@@ -1,26 +1,18 @@
 [
   {
-    "first_name": "Eric",
-    "last_name": "Wang",
-    "email": "eric@hotmail.com",
-    "password": "password12345"
+    "username": "Eric",
+    "password": "12345678"
   },
   {
-    "first_name": "Kevin",
-    "last_name": "Kevin",
-    "email": "kevin@gmail.com",
-    "password": "password12345"
+    "username": "Kevin",
+    "password": "12345678"
   },
   {
-    "first_name": "Junel",
-    "last_name": "Balbin",
-    "email": "junel@aol.com",
-    "password": "password12345"
+    "username": "Junel",
+    "password": "12345678"
   },
   {
-    "first_name": "Carlos",
-    "last_name": "Baltazar",
-    "email": "carlos@msn.com",
-    "password": "password12345"
+    "username": "Carlos",
+    "password": "12345678"
   }
 ]

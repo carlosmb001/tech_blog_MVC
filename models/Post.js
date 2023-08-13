@@ -20,11 +20,11 @@ Post.init(
       allowNull: false,
     },
     createdAt: {
-    type: DataType.DATE,
+    type: DataTypes.DATE,
     allowNull: false,
   },
     updatedAt: {
-    type: DataType.DATE,
+    type: DataTypes.DATE,
     allowNull: false,
   }
   },
