@@ -24,7 +24,7 @@ Post.init(
     allowNull: false,
   },
     updatedAt: {
-    type: DataTypes.DATE,
+    type: DataTypes.STRING,
     allowNull: false,
   }
   },
