@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const { Post, User } = require('../models');
 
+http://localhost:3001/
 router.get('/', async (req, res) => {
     try {
         const postData = await Post.findAll({
@@ -45,5 +46,10 @@ router.get('/', async (req, res) => {
     }
 });
 */
+
+router.get('/login', async (req, res) => {
+    
+    )}:
+    
 
 module.exports = router;

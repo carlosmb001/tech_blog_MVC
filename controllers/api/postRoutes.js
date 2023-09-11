@@ -37,7 +37,7 @@ router.get('/', async (req, res) => {
 
 //create a new post
 //http:/localhost:3001/api/post/
-router.post('/', withAuth, async (req, res) => {
+router.post('/'/*, withAuth*/, async (req, res) => {
   try {
     const newPost = await Post.create({
       ...req.body,
